@@ -25,7 +25,8 @@ Link: https://chal14-authentication.onrender.com
 
 
 # ScreenShots:
-![Screenshot 2025-02-25 181039](https://github.com/user-attachments/assets/ef67bb15-75f2-41f6-91d4-6b7cbf32c4c3)
+
 ![Screenshot 2025-02-25 180947](https://github.com/user-attachments/assets/11bb5c7d-40ae-420f-8e1e-84fd113f621f)
 ![Screenshot 2025-02-25 181011](https://github.com/user-attachments/assets/1e85f526-336a-475d-a50d-1fea53de6be7)
 ![Screenshot 2025-02-25 181025](https://github.com/user-attachments/assets/7763a160-4b8d-48da-b574-ebb097249ae2)
+![Screenshot 2025-02-25 181039](https://github.com/user-attachments/assets/ef67bb15-75f2-41f6-91d4-6b7cbf32c4c3)
